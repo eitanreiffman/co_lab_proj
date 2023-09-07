@@ -1,0 +1,20 @@
+body {
+    font-family: 'Libre Franklin', sans-serif;
+    font-family: 'Lora', serif;
+}
+
+.background {
+    background: linear-gradient(#ffedac5e, #ffd641);
+}
+
+.nav-background {
+    background: linear-gradient(#45beff, #bee8ff8e);
+}
+
+.text-opacity {
+    opacity: 0.85;
+}
+
+a:hover {
+    color: rgb(42, 162, 237); /* Change the color when hovering */
+}
